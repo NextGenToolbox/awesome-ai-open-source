@@ -20,8 +20,8 @@ A carefully selected collection of **AI tools, open-source projects, and tech re
 | Resource | Description |
 |----------------|------------|
 | [Hugging Face](https://huggingface.co) | Hub for AI models and datasets |
-| [HowToGeek](https://www.howtogeek.com/) | Tech Articles |
-| [Firethering](https://firethering.com/) | Everything happening in AI and tech, from new open source model releases to the tools worth knowing about. |
+| [HowToGeek](https://www.howtogeek.com/) | Tech Articles & Software  |
+| [Firethering](https://firethering.com/) | Tech discovery hub for devs, creators, and anyone who wants to stay ahead of what’s happening in open source software and AI. |
 | [ItsFOSS](https://itsfoss.com) | Practical Linux and open-source guides |
 
 
