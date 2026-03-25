@@ -15,9 +15,9 @@ A carefully selected collection of **AI tools, open-source projects, and tech re
 
 ---
 
-## 🔥 Editor’s Picks
+## 🔥 Reliable Tech Resources
 
-| Tool / Resource | Description |
+| Resource | Description |
 |----------------|------------|
 | [Hugging Face](https://huggingface.co) | Hub for AI models and datasets |
 | [HowToGeek](https://www.howtogeek.com/) | Tech Articles |
