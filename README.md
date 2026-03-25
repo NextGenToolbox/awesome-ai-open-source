@@ -65,7 +65,6 @@ A carefully selected collection of **AI tools, open-source projects, and tech re
 
 | Resource | Description |
 |----------|------------|
-
 | Yahoo Tech | General tech news |
 | MakeUseOF | Tech & Gadgets around you |
 | TechCrunch | Tech News & Updates |
