@@ -61,13 +61,13 @@ A carefully selected collection of **AI tools, open-source projects, and tech re
 
 ---
 
-##  Tech Resources
+##  Additional Tech Resources
 
 | Resource | Description |
 |----------|------------|
-| Yahoo Tech | General tech news |
-| MakeUseOF | Tech & Gadgets around you |
-| TechCrunch | Tech News & Updates |
+| [Yahoo Tech](https://www.yahoo.com/tech/) | General tech news and updates |
+| [MakeUseOf](https://www.makeuseof.com/) | Practical tech guides, apps, and tips |
+| [TechCrunch](https://techcrunch.com/) | Startup and technology news |
 ---
 
 ##  Why this exists
